@@ -4,7 +4,7 @@
 2 страница с самой игрой
 3 страница с таблицой результатов
 
-+ ***Ссылка*** - memory-game-lemon-zeta.vercel.app
++ ***Ссылка*** - https://memory-game-lemon-zeta.vercel.app/
 
 ***Технологии:***
 + ***React***
